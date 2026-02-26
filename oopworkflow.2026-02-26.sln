@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.37012.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6Workflow", "ConsoleApp6Workflow\ConsoleApp6Workflow.csproj", "{55907E10-74AA-43CE-A2D8-05C8A873E890}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appworkflowtests", "appworkflowtests\appworkflowtests.csproj", "{D8506325-ADCD-45A4-B95D-331A551E327F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55907E10-74AA-43CE-A2D8-05C8A873E890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55907E10-74AA-43CE-A2D8-05C8A873E890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55907E10-74AA-43CE-A2D8-05C8A873E890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8506325-ADCD-45A4-B95D-331A551E327F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8506325-ADCD-45A4-B95D-331A551E327F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8506325-ADCD-45A4-B95D-331A551E327F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8506325-ADCD-45A4-B95D-331A551E327F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
